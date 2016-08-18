@@ -1,0 +1,17 @@
+{
+    "name": "gfsdidot-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Greek Font Society"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/gfsdidot-bower.git"
+    },
+    "description": "GFS Didot font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
